@@ -1,0 +1,10 @@
+# Ignore local runtime/output artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.DS_Store
+cookies.pkl
+.env
+browser_profiles/FirefoxUserDataClean/*
+
